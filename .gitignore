@@ -1,0 +1,4 @@
+*.amltmp
+__pycache__*
+.*checkpoint*
+*checkpoint*
